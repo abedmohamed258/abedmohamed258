@@ -1,6 +1,6 @@
 # Abed Mohamed
 
-Software developer.
+Learning by building.
 
 ## Selected work
 - [Tazkiyah](https://github.com/abedmohamed258/tazkiyah) — weekly worship tracker with prayer times and Hijri date.
